@@ -1,0 +1,17 @@
+1.javascript     livescript     基于对象    弱类型（很混乱）
+
+var a = 5;
+var b = 2;
+var c = a/b;
+c == 2.5;
+
+
+
+2.java   面向对象   强类型(无数)  强类型（仅仅有条）     class person   严谨
+
+//方法体
+int sum;
+sum = a + b;
+return  sum;
+
+
